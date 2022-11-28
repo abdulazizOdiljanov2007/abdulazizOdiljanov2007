@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abdulaziz+Odiljanov)
 <!-- -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+BackEnd+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Full+Stack+Developer)
 
 ### Languages and Tools  
 
@@ -44,7 +44,7 @@
 </div>
  
  <p align="center" >   
-  <img src="https://profile-counter.glitch.me/abdulazizOdiljanov/count.svg" />  
+  <img src="https://profile-counter.glitch.me/abdulazizOdiljanov2007/count.svg" />  
 </p>
    
 <br>
